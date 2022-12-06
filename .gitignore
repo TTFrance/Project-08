@@ -2,3 +2,8 @@
 /LightsailDefaultKey-eu-west-3.pem
 /new_user_credentials.csv
 oc-p8-modelling_full.ipynb
+donotgit.ipynb
+test_01_s3.ipynb
+test_02_spark_pi.ipynb
+test_03_spark_s3.ipynb
+test_04_spark_pca.ipynb
